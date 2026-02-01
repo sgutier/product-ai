@@ -1,0 +1,25 @@
+{
+    "screen_id": "nav-search",
+    "platform": "iOS",
+    "screen_type": "Search",
+    "context": "Driver searches for a destination before starting navigation",
+    "primary_goal": "Enable fast and accurate destination input",
+    "interaction_level": "Medium",
+    "safety_critical": false,
+    "key_ui_patterns": [
+      "search input",
+      "suggested results",
+      "recent destinations"
+    ],
+    "relevant_states": [
+      "text input",
+      "suggestions",
+      "empty state"
+    ],
+    "design_principles": [
+      "efficiency",
+      "predictability",
+      "error prevention"
+    ],
+    "why_this_is_relevant": "Shows how user input and list-based interaction are handled outside active driving"
+  }

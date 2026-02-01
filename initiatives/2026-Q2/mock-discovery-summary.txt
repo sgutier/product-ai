@@ -1,0 +1,58 @@
+MOCK DISCOVERY SUMMARY — ASSUMPTION-BASED
+Purpose: Unblock PRD creation and test product workflow.
+No real discovery activities have been executed.
+
+Initiative: EW Navigation – Office Route Fidelity MVP
+Discovery owner: Sergio
+Discovery window: MOCK (no real dates)
+
+1. Discovery Objectives Recap
+- Validate that drivers value 1:1 route fidelity between EW Office and EW Navigation
+- Understand if dispatchers expect execution parity
+- Assess feasibility of route sync without impacting navigation stability
+
+2. Activities Completed
+- None (MOCK)
+
+3. Key Learnings (Evidence-Based)
+- Value: Inconclusive (assumption based on prior experience and strategic intent)
+- Usability: Inconclusive
+- Feasibility: Inconclusive
+- Viability: Inconclusive
+
+4. Assumptions Status
+- Drivers will trust Navigation more if routes match Office plans → Inconclusive
+- Dispatchers expect exact execution of planned routes → Inconclusive
+- Route sync can be done without CFR degradation → Inconclusive
+
+5. Impact on Hypothesis
+- Original hypothesis remains unchanged
+- No evidence to validate or invalidate at this stage
+
+6. Impact on Scope & Direction
+- Scope remains as defined in Birth Certificate
+- No changes introduced
+
+7. Metrics & Success Criteria
+- Primary and guardrail metrics unchanged
+- Targets remain aspirational
+
+8. Residual Risks
+- Value risk remains high
+- Usability risk remains medium
+- Feasibility risk remains medium
+- Viability risk remains low to medium
+
+9. Readiness Assessment
+[X] Ready for PRD (assumptions accepted for planning purposes)
+
+Rationale:
+This PRD is created to structure solution thinking and delivery options.
+Discovery must be executed before delivery commitment.
+
+10. Required Updates to Birth Certificate
+- None at this stage (MOCK)
+
+11. Decision
+Decision owner: Sergio
+Decision: Proceed to PRD (non-committal, planning-only)

@@ -1,0 +1,9 @@
+# OS
+.DS_Store
+
+# Cursor / Editor
+.cursor/logs/
+.cursor/cache/
+
+# Temporary AI outputs (optional)
+design-ai-output/

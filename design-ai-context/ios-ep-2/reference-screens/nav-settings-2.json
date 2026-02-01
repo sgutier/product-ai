@@ -1,0 +1,22 @@
+{
+    "screen_id": "nav-settings-advanced",
+    "platform": "iOS",
+    "screen_type": "Settings (Advanced)",
+    "context": "Driver accesses secondary or advanced navigation settings",
+    "primary_goal": "Expose advanced options without cluttering core settings",
+    "interaction_level": "Medium",
+    "safety_critical": false,
+    "key_ui_patterns": [
+      "secondary lists",
+      "nested navigation",
+      "section separation"
+    ],
+    "relevant_states": [
+      "advanced configuration"
+    ],
+    "design_principles": [
+      "progressive disclosure",
+      "hierarchical navigation"
+    ],
+    "why_this_is_relevant": "Shows how complexity is managed through navigation depth rather than visual density"
+  }

@@ -1,0 +1,24 @@
+{
+    "screen_id": "nav-settings",
+    "platform": "iOS",
+    "screen_type": "Settings",
+    "context": "Driver configures navigation preferences",
+    "primary_goal": "Allow configuration without overwhelming the user",
+    "interaction_level": "Medium",
+    "safety_critical": false,
+    "key_ui_patterns": [
+      "grouped settings",
+      "toggles",
+      "list navigation"
+    ],
+    "relevant_states": [
+      "default settings",
+      "customized settings"
+    ],
+    "design_principles": [
+      "clarity",
+      "consistency",
+      "progressive disclosure"
+    ],
+    "why_this_is_relevant": "Represents non-driving configuration patterns and information hierarchy"
+  }

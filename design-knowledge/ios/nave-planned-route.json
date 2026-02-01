@@ -1,0 +1,24 @@
+{
+    "screen_id": "nav-planned-route",
+    "platform": "iOS",
+    "screen_type": "Planned Route Overview",
+    "context": "Driver reviews a route that has been pre-planned before navigation starts",
+    "primary_goal": "Communicate the planned route clearly and build trust in the route",
+    "interaction_level": "Low",
+    "safety_critical": false,
+    "key_ui_patterns": [
+      "route summary",
+      "map preview",
+      "clear start action"
+    ],
+    "relevant_states": [
+      "planned route",
+      "pre-navigation"
+    ],
+    "design_principles": [
+      "clarity",
+      "confidence",
+      "preview before action"
+    ],
+    "why_this_is_relevant": "Critical reference for Office-planned routes and pre-execution confirmation flows"
+  }

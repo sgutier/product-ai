@@ -1,0 +1,26 @@
+{
+    "screen_id": "nav-navigating",
+    "platform": "iOS",
+    "screen_type": "Active Navigation",
+    "context": "Driver is actively navigating along a route",
+    "primary_goal": "Guide the driver safely with minimal distraction",
+    "interaction_level": "Very low",
+    "safety_critical": true,
+    "key_ui_patterns": [
+      "full-screen map",
+      "high-contrast route line",
+      "prominent next maneuver",
+      "minimal overlays"
+    ],
+    "relevant_states": [
+      "online",
+      "offline",
+      "approaching maneuver"
+    ],
+    "design_principles": [
+      "driver safety",
+      "visual hierarchy",
+      "hands-free usage"
+    ],
+    "why_this_is_relevant": "Defines the core visual language and safety constraints of the navigation experience"
+  }

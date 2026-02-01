@@ -1,0 +1,24 @@
+{
+    "screen_id": "nav-landing-page",
+    "platform": "iOS",
+    "screen_type": "Landing / Entry",
+    "context": "Driver opens the navigation app before starting a trip",
+    "primary_goal": "Provide a clear and fast entry point into navigation",
+    "interaction_level": "Low",
+    "safety_critical": false,
+    "key_ui_patterns": [
+      "clear primary CTA",
+      "minimal information density",
+      "status overview"
+    ],
+    "relevant_states": [
+      "no active route",
+      "ready to start navigation"
+    ],
+    "design_principles": [
+      "clarity",
+      "speed to action",
+      "minimal cognitive load"
+    ],
+    "why_this_is_relevant": "Represents the first-touch experience and baseline layout for navigation flows"
+  }
