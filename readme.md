@@ -1,5 +1,7 @@
 # Product Initiative & AI-Assisted Design Workflow
 
+This readme.md file has been created by Sergio Barguilla
+
 This repository contains a **structured, end-to-end workflow** for defining, discovering, designing, and delivering product initiatives, with optional **AI assistance** (Cursor + Gemini) used in a **controlled, auditable way**.
 
 The system is designed for **corporate product organizations** where:
