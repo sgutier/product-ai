@@ -45,6 +45,8 @@ Before drafting the PRD, read:
   - Personas & segments
   - Architecture & constraints
   - Risks & glossary (as needed)
+- Review relevant research and include only directly relevant validated insights.
+  - Do not restate full research summaries.
 
 ---
 
@@ -57,6 +59,12 @@ Before drafting the PRD, read:
 - Do NOT hide assumptions or risks
 
 If discovery was MOCK or assumption-based, make that explicit.
+
+---
+## User Evidence
+
+Reference persona research supporting this feature.
+List pain points and validated behaviors.
 
 ---
 

@@ -31,6 +31,13 @@ Before proceeding, confirm that you have access to:
 If any are missing, ask the user to provide them.
 
 ---
+Before generating a learning plan:
+
+1. Review existing research for this persona and problem.
+2. Identify unknowns vs validated insights.
+3. Only create learning goals for unvalidated assumptions.
+
+---
 
 ## What You Must Read
 

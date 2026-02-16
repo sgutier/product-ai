@@ -27,8 +27,12 @@ If any are missing, STOP and ask the user to provide them.
 - PRD (requirements and constraints)
 - Epic Plan (epic structure, scope in/out, sequencing, dependencies)
 - Product context (personas, metrics definitions, glossary)
+- Relevant research:
+  - /research/master-summary.md
+  - Persona-specific research folders (if applicable)
 
-Do not introduce scope not supported by PRD/Epics.
+User stories must reflect validated persona pain points and real behavioral patterns from research.
+If no research exists for the persona, proceed but do not invent behavioral assumptions.
 
 ---
 

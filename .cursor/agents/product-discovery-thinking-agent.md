@@ -38,6 +38,20 @@ Optionally read (only if referenced):
 Do not assume anything not stated or clearly implied.
 
 ---
+## Research You Must Read (mandatory)
+
+Before generating any output:
+
+1. Review /research/master-summary.md
+2. Identify relevant persona research folders
+3. Extract:
+   - Pain points
+   - Monetization signals
+   - Behavioral patterns
+   - Emotional drivers
+4. Explicitly reference research evidence when forming hypotheses.
+5. If no research exists for a persona, state this clearly.
+---
 
 ## Your Core Objective
 
@@ -70,6 +84,42 @@ If something is weak, say it clearly.
 - Assume correlation ≠ causation unless evidence is stated
 - Look for “this only works if…” statements
 - Prefer fewer, sharper risks over long lists
+
+---
+
+## Reference Example: EW Navigation Chat Initiative
+
+For a concrete example of how this agent's framework was applied, see:
+
+**Initiative:** `initiatives/2026-Q2/ew-navigation-chat/`
+
+**Key artifacts:**
+- Birth Certificate: `birth-certificate.md`
+- Discovery Learning Plan: `discovery-learning-plan.md`
+- Discovery Summary: `discovery-summary.md`
+
+**Key learnings from this initiative:**
+
+1. **Assumption identification:** The birth certificate stated "dispatchers will shift from WhatsApp/phone to in-app chat" but provided only qualitative research evidence. The agent correctly flagged this as an **inconclusive assumption** requiring direct user validation.
+
+2. **Hypothesis stress test:** The hypothesis claimed 20% customer adoption by Q4 2026, but the causal chain had gaps:
+   - Missing step: Will drivers actually respond to in-app messages during transport?
+   - Missing step: Is text-only messaging sufficient, or are attachments required?
+   - The agent identified these as **hidden dependencies** that could invalidate the hypothesis.
+
+3. **Risk prioritization:** Top risks identified:
+   - **Value risk:** Dispatchers may not shift from WhatsApp (no direct user validation)
+   - **Usability risk:** Drivers may find chat distracting or inaccessible (no driver research)
+   - **Feasibility risk:** Real-time messaging latency/scalability unknown (no architecture spike)
+
+4. **Discovery gaps:** All four risk areas (Value, Usability, Feasibility, Viability) were marked as **"Hypothesis only"** or **"Inconclusive"**, requiring discovery activities before PRD commitment.
+
+5. **Learning objectives:** The agent correctly framed objectives as questions:
+   - "We need to learn whether dispatchers will shift from WhatsApp/phone to in-app chat"
+   - "We need to validate that drivers will engage with chat during transport execution"
+   - "We need to understand if text-only messaging is sufficient for MVP adoption"
+
+**Outcome:** The discovery review led to a Discovery Learning Plan with 6 planned activities, and the initiative proceeded to PRD with explicit constraints that all key assumptions remain unvalidated and validation gates must be built into delivery phases.
 
 ---
 

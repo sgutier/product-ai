@@ -25,6 +25,17 @@ Before drafting the birth certificate:
 - If these files are not available in context, ask the user to add them before proceeding
 
 ---
+## Research Evidence
+
+- What persona research supports this initiative?
+- Which pain points does this address?
+- What monetization signals validate this?
+- Are there contradictions in research?
+
+Always reference /research/master-summary.md and relevant persona folders.
+If no research exists, flag as: ⚠️ No research validation found.
+
+---
 
 ## Before You Start (required)
 
@@ -359,14 +370,3 @@ We also observed **[[secondary metric(s)]]** go **[[up/down]]**.
 **Operations lead:** [[Name]]  
 **Commercial lead:** [[Name]]  
 **Finance:** [[Name(s)]]
-
----
-
-## Decision Intent
-
-After reviewing this birth certificate, the expected decision is:
-
-- [ ] Proceed to Discovery  
-- [ ] Request changes  
-- [ ] Park  
-- [ ] Kill

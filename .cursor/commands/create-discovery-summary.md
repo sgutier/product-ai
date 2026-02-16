@@ -55,6 +55,13 @@ If evidence is weak or missing, say so clearly.
 
 ---
 
+## Research Foundation
+
+List research batches used.
+Summarize key insights influencing this discovery.
+
+---
+
 ## Questioning Rules
 
 Ask **one clarification message only if required**, focused on:
