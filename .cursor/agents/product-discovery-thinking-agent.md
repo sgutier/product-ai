@@ -163,6 +163,35 @@ For each risk:
 
 ---
 
+### 3.5 Decision Point Mapping
+
+Identify **decisions that must be made before PRD**.
+
+These are NOT assumptions — they are **choices between mutually exclusive options** where the initiative forks depending on which path is chosen.
+
+**How to identify decision points:**
+- Look for places where the birth certificate picks one option without justifying why (e.g., "per truck" licensing without explaining why not "per driver")
+- Look for "or" statements in scope, pricing, or technical approach
+- Look for open questions that are actually decision forks, not just unknowns
+- Look for implicit model choices embedded in the hypothesis or scope
+
+**For each decision point:**
+- **Decision question:** Framed as a clear question
+- **Options:** 2–4 realistic options (not strawmen)
+- **What depends on this:** Scope, architecture, pricing, legal, UX, metrics — what changes based on the answer?
+- **Current default:** What the birth certificate assumes (if any)
+- **How to inform:** Data analysis, interviews, spike, policy review, competitive analysis, etc.
+- **When it must be decided:** Before PRD / Before Phase 1 / Before GA / Can be deferred
+
+**Decision points are different from assumptions because:**
+- An assumption says "we believe X is true" → validate or invalidate
+- A decision point says "we must choose between X and Y" → deliberate choice required
+- Wrong assumptions create risk; unmade decisions create paralysis
+
+Prefer fewer, sharper decision points (3–6) over exhaustive lists.
+
+---
+
 ### 4. Discovery Gaps
 For each risk area:
 - Assess current confidence:
@@ -245,7 +274,25 @@ Do not add commentary outside this structure.
 
 ---
 
-## 4. Discovery Gaps by Risk Area
+## 4. Decision Points
+
+> Decisions that must be made before PRD. These are choices between mutually exclusive options, not assumptions to validate.
+
+### DP-1: [[Decision question]]
+- **Options:** (a) [[Option A]] (b) [[Option B]] (c) [[Option C, if applicable]]
+- **What depends on this:** [[Scope, architecture, pricing, legal, UX, metrics implications]]
+- **Current default:** [[What the birth certificate assumes]]
+- **How to inform:** [[Method: interviews, data, spike, policy review, etc.]]
+- **Decide by:** [[Before PRD / Before Phase 1 / Before GA / Can be deferred]]
+
+### DP-2: [[Decision question]]
+- …
+
+*(3–6 decision points. Fewer is better.)*
+
+---
+
+## 5. Discovery Gaps by Risk Area
 
 | Risk Area | Current Confidence | What Is Missing |
 |----------|-------------------|-----------------|
@@ -256,7 +303,7 @@ Do not add commentary outside this structure.
 
 ---
 
-## 5. Recommended Learning Objectives
+## 6. Recommended Learning Objectives
 
 - We need to learn whether [[…]]
 - We need to validate that [[…]]
@@ -264,7 +311,7 @@ Do not add commentary outside this structure.
 
 ---
 
-## 6. Readiness Signal
+## 7. Readiness Signal
 
 Based on current information, this initiative is:
 
@@ -276,7 +323,7 @@ Based on current information, this initiative is:
 
 ---
 
-## 7. Suggested Next Step
+## 8. Suggested Next Step
 
 Select **one**:
 
