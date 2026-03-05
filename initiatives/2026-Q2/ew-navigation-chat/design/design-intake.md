@@ -77,7 +77,7 @@ Drivers need a way to quickly see and access their conversations with dispatcher
 
 **Related PRD requirement(s):** FR-2
 
-**Figma link:** [[TBD]]
+**Figma link:** [Design Proposal](../../../../design-ai-context/ios-ep-2/design-response.md) | [SwiftUI Implementation](../../../../initiatives/2026-Q2/ew-navigation-chat/implementation/ios)
 
 _Open questions for design:_
 - Where does chat entry point live in Navigation (tab, menu, icon)?
@@ -110,7 +110,7 @@ Drivers need to read the full conversation history with a dispatcher.
 
 **Related PRD requirement(s):** FR-2
 
-**Figma link:** [[TBD]]
+**Figma link:** [Design Proposal](../../../../design-ai-context/ios-ep-2/design-response.md) | [SwiftUI Implementation](../../../../initiatives/2026-Q2/ew-navigation-chat/implementation/ios)
 
 ---
 
@@ -138,7 +138,7 @@ Drivers need to reply to dispatchers with text messages.
 
 **Related PRD requirement(s):** FR-2
 
-**Figma link:** [[TBD]]
+**Figma link:** [Design Proposal](../../../../design-ai-context/ios-ep-2/design-response.md) | [SwiftUI Implementation](../../../../initiatives/2026-Q2/ew-navigation-chat/implementation/ios)
 
 ---
 
@@ -163,7 +163,7 @@ Drivers need to know who is messaging them.
 
 **Related PRD requirement(s):** FR-6
 
-**Figma link:** [[TBD]]
+**Figma link:** [Design Proposal](../../../../design-ai-context/ios-ep-2/design-response.md) | [SwiftUI Implementation](../../../../initiatives/2026-Q2/ew-navigation-chat/implementation/ios)
 
 ---
 
@@ -201,7 +201,7 @@ Dispatchers need to see which drivers they can message.
 
 **Related PRD requirement(s):** FR-1
 
-**Figma link:** [[TBD]]
+**Figma link:** [Design Proposal](../../../../design-ai-context/ios-ep-2/design-response.md) | [SwiftUI Implementation](../../../../initiatives/2026-Q2/ew-navigation-chat/implementation/ios)
 
 _Open questions for design:_
 - Is chat a standalone section or integrated into existing driver list?
@@ -231,7 +231,7 @@ Dispatchers need to start a conversation with a driver.
 
 **Related PRD requirement(s):** FR-1
 
-**Figma link:** [[TBD]]
+**Figma link:** [Design Proposal](../../../../design-ai-context/ios-ep-2/design-response.md) | [SwiftUI Implementation](../../../../initiatives/2026-Q2/ew-navigation-chat/implementation/ios)
 
 ---
 
@@ -259,7 +259,7 @@ Dispatchers need to see and manage all their active conversations.
 
 **Related PRD requirement(s):** FR-1
 
-**Figma link:** [[TBD]]
+**Figma link:** [Design Proposal](../../../../design-ai-context/ios-ep-2/design-response.md) | [SwiftUI Implementation](../../../../initiatives/2026-Q2/ew-navigation-chat/implementation/ios)
 
 ---
 
@@ -287,7 +287,7 @@ Dispatchers need to read the full conversation with a driver.
 
 **Related PRD requirement(s):** FR-1
 
-**Figma link:** [[TBD]]
+**Figma link:** [Design Proposal](../../../../design-ai-context/ios-ep-2/design-response.md) | [SwiftUI Implementation](../../../../initiatives/2026-Q2/ew-navigation-chat/implementation/ios)
 
 ---
 
@@ -313,7 +313,7 @@ Dispatchers need to send text messages to drivers.
 
 **Related PRD requirement(s):** FR-1
 
-**Figma link:** [[TBD]]
+**Figma link:** [Design Proposal](../../../../design-ai-context/ios-ep-2/design-response.md) | [SwiftUI Implementation](../../../../initiatives/2026-Q2/ew-navigation-chat/implementation/ios)
 
 ---
 
@@ -339,7 +339,7 @@ Dispatchers need context about who they are messaging.
 
 **Related PRD requirement(s):** FR-6
 
-**Figma link:** [[TBD]]
+**Figma link:** [Design Proposal](../../../../design-ai-context/ios-ep-2/design-response.md) | [SwiftUI Implementation](../../../../initiatives/2026-Q2/ew-navigation-chat/implementation/ios)
 
 ---
 
@@ -377,7 +377,7 @@ Drivers need to be alerted to new messages when not actively using the app.
 
 **Related PRD requirement(s):** FR-4
 
-**Figma link:** [[TBD]]
+**Figma link:** [Design Proposal](../../../../design-ai-context/ios-ep-2/design-response.md) | [SwiftUI Implementation](../../../../initiatives/2026-Q2/ew-navigation-chat/implementation/ios)
 
 _Open questions for design:_
 - How much message preview to show in notification?
@@ -408,7 +408,7 @@ Drivers need to understand why notifications are important and grant permission.
 
 **Related PRD requirement(s):** FR-4
 
-**Figma link:** [[TBD]]
+**Figma link:** [Design Proposal](../../../../design-ai-context/ios-ep-2/design-response.md) | [SwiftUI Implementation](../../../../initiatives/2026-Q2/ew-navigation-chat/implementation/ios)
 
 ---
 
@@ -435,7 +435,7 @@ Dispatchers need to be alerted to driver replies while working in EW Office.
 
 **Related PRD requirement(s):** FR-4
 
-**Figma link:** [[TBD]]
+**Figma link:** [Design Proposal](../../../../design-ai-context/ios-ep-2/design-response.md) | [SwiftUI Implementation](../../../../initiatives/2026-Q2/ew-navigation-chat/implementation/ios)
 
 ---
 
@@ -494,8 +494,8 @@ Design work for Phase 1 is considered complete when:
 ## 6. Open Questions & Follow-Ups
 
 - **Design lead:** Who is assigned as UX designer for this initiative?
-- **Chat entry point (mobile):** Where does chat live in EW Navigation? (tab, menu, icon)
+- **Chat entry point (mobile):** Added as a secondary action on the landing page (see Design Proposal).
 - **Chat entry point (web):** Is chat a standalone section or integrated into driver list?
-- **Unread indicators:** How to show unread without distracting drivers?
+- **Unread indicators:** Visual indicator (e.g., blue dot) on the left margin (see Design Proposal).
 - **Notification preview:** How much message content to show in push notifications?
 - **Driver research:** Will driver contextual inquiry inform UX before finalization?
