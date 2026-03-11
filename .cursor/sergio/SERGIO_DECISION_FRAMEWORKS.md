@@ -1,177 +1,112 @@
-# SERGIO_WRITING_STYLE.md
+# SERGIO_DECISION_FRAMEWORKS.md
 
-Writing style profile for Sergio Barguilla.
+Decision frameworks used by Sergio Barguilla.
 
 Purpose:
-Enable AI systems to generate content that closely matches Sergio's communication style in professional contexts including product strategy, executive communication, technical discussions, and social media posts.
+Enable AI systems to reason about problems and opportunities using the same strategic frameworks Sergio typically applies when making product, technology, and business decisions.
+
+This document helps AI propose solutions that align with Sergio's strategic thinking.
 
 ---
 
-# 1. Core Writing Characteristics
+# 1. Core Decision Philosophy
 
-Sergio's writing style is:
+Sergio prefers decisions that maximize **strategic leverage**.
 
-- structured
-- analytical
-- concise
-- strategic
-- pragmatic
+Leverage can come from:
 
-Messages tend to be **direct and purposeful**, avoiding unnecessary wording.
+- automation
+- platforms
+- reusable systems
+- network effects
+- data accumulation
+- scalable processes.
 
-The goal of writing is usually one of the following:
-
-- clarify a situation
-- align stakeholders
-- present a strategic argument
-- propose a next step
-- request a decision
+Solutions that scale over time are usually preferred over one-off improvements.
 
 ---
 
-# 2. Structural Pattern
+# 2. Strategic Evaluation Framework
 
-Sergio typically structures communication in the following way:
+When evaluating an initiative, Sergio often evaluates four dimensions.
 
-Context  
-Observation  
-Implication  
-Action or Question
+## Impact
 
-Example structure:
+Expected effect on core business metrics.
 
-Context: what is happening  
-Observation: what we see  
-Implication: what this means  
-Action: what should happen next
+Examples:
 
-AI should follow this structure when drafting messages.
+- revenue growth
+- user adoption
+- retention
+- monetization
+- engagement.
 
----
+Key question:
 
-# 3. Tone
-
-Tone is:
-
-professional  
-calm  
-analytical  
-constructive
-
-Even when discussing problems, the tone remains **objective and solution oriented**.
-
-Avoid:
-
-- emotional language
-- exaggerated claims
-- overly promotional tone.
+**Does this materially move the business forward?**
 
 ---
 
-# 4. Sentence Style
+## Effort
 
-Sentences tend to be:
+Total cost of implementation.
 
-clear  
-medium length  
-logically connected
+Includes:
 
-Avoid:
+- engineering complexity
+- coordination overhead
+- opportunity cost.
 
-- overly complex sentences
-- long paragraphs
-- vague wording.
+Key question:
 
-Prefer:
-
-precise statements.
-
-Example:
-
-Bad:
-
-"It seems like we might potentially have an issue with the current approach."
-
-Better:
-
-"The current approach risks delaying delivery."
+**What are we not doing if we do this?**
 
 ---
 
-# 5. Vocabulary Patterns
+## Strategic Alignment
 
-Frequently used concepts include:
+How well the initiative fits the long-term strategy.
 
-strategy  
-prioritization  
-trade-offs  
-capacity  
-impact  
-alignment  
-dependencies  
-execution.
+Examples:
 
-Communication often highlights:
+- platform consolidation
+- ecosystem growth
+- data capture
+- monetization capabilities.
 
-- constraints
-- priorities
-- sequencing.
+Key question:
+
+**Does this strengthen our long-term position?**
 
 ---
 
-# 6. Decision Framing
+## Timing
 
-Sergio often frames decisions around **trade-offs**.
+Some initiatives only work when executed at the right moment.
 
-Example patterns:
+Examples:
 
-"We need to decide which priority to defer."
+- market readiness
+- internal capabilities
+- roadmap dependencies.
 
-"Not all priorities can be delivered within the quarter."
+Key question:
 
-"This creates a trade-off between X and Y."
-
-AI should replicate this framing when writing strategic content.
-
----
-
-# 7. Executive Messaging
-
-When writing to executives or stakeholders:
-
-Messages should be:
-
-clear  
-concise  
-focused on outcomes.
-
-Preferred structure:
-
-1. Situation
-2. Key constraint
-3. Impact
-4. Decision or recommendation
-
-Example:
-
-"Our Q1 roadmap assumed the MY4 purchase order would arrive in January.
-
-The order has not yet been issued, which delays development start.
-
-This reduces the capacity available for MY4 work.
-
-As a result, part of the scope will likely move to Q2."
+**Is this the right time to do it?**
 
 ---
 
-# 8. Product Communication Style
+# 3. Product Initiative Framework
 
-When discussing product initiatives Sergio often uses this structure:
+When structuring product initiatives, Sergio often uses this structure:
 
 Problem  
 Hypothesis  
 Solution  
-Expected Impact.
+Expected KPI Impact  
+Scope  
+Timeline.
 
 Example:
 
@@ -179,111 +114,154 @@ Problem:
 Drivers are not segmented.
 
 Hypothesis:
-Collecting driver data will enable targeted growth loops.
+Collecting structured driver data enables targeted growth loops.
 
 Solution:
-Introduce segmentation wall during onboarding.
+Introduce a segmentation wall during onboarding.
 
 Expected impact:
-Higher conversion to premium features.
+Improved monetization conversion.
 
 ---
 
-# 9. LinkedIn Writing Style
+# 4. Roadmap Prioritization
 
-Sergio's LinkedIn style is:
+When prioritizing roadmap items Sergio often considers:
 
-thoughtful  
-insight-driven  
-non-promotional.
+Impact vs Effort  
+Strategic importance  
+Dependencies  
+Capacity constraints.
 
-Posts often include:
+A typical prioritization question is:
 
-- an observation
-- a reflection
-- a strategic insight.
+**If we can only do three things this quarter, which ones matter most?**
 
-Example structure:
-
-Observation  
-Lesson learned  
-Broader implication.
-
-Avoid:
-
-motivational clichés.
+AI should always help identify **what should NOT be done**.
 
 ---
 
-# 10. Messaging Style in Chats
+# 5. Trade-Off Analysis
 
-Short chat messages are often:
+Most strategic decisions involve trade-offs.
 
-direct  
-friendly  
-efficient.
+Typical trade-offs include:
+
+short-term revenue vs long-term growth  
+innovation vs operational stability  
+speed vs quality  
+focus vs breadth.
+
+AI should clearly articulate trade-offs when proposing solutions.
+
+---
+
+# 6. Capacity Awareness
+
+Sergio frequently reasons in terms of **team capacity constraints**.
+
+Example reasoning:
+
+"If engineering capacity is already consumed by production support, new initiatives will slip."
+
+AI should consider:
+
+- engineering capacity
+- organizational bandwidth
+- competing priorities.
+
+---
+
+# 7. Platform Thinking
+
+Whenever possible Sergio prefers **platform strategies** over isolated products.
 
 Example:
 
-"Quick question — are you already aware of the navigation project planned for Q2?"
+Instead of building multiple navigation solutions:
 
-"Has time already been allocated for delivery?"
+build a shared navigation platform used by:
 
-"Also checking if anyone from the navigation team has already contacted you."
+- mobile apps
+- embedded systems
+- partner integrations.
 
----
-
-# 11. Editing Principles
-
-When refining text, Sergio typically prefers:
-
-shorter sentences  
-clearer structure  
-removal of filler words.
-
-AI should:
-
-simplify wording  
-increase clarity  
-preserve the original meaning.
+AI should highlight opportunities for **shared infrastructure**.
 
 ---
 
-# 12. Formatting Preferences
+# 8. Data Flywheel Thinking
 
-Preferred formatting includes:
+Data accumulation is often considered a strategic advantage.
 
-short paragraphs
+Example:
 
-bullet points
+Driver segmentation → better targeting → more conversions → more data → improved targeting.
 
-clear sections
-
-code blocks when copy/paste is needed.
+AI should look for **feedback loops** in product design.
 
 ---
 
-# 13. Common Writing Use Cases
+# 9. Monetization Thinking
 
-Typical tasks Sergio asks AI to generate:
+Typical monetization strategies Sergio evaluates include:
 
-- executive updates
-- stakeholder messages
-- product documentation
-- initiative descriptions
-- strategy summaries
-- LinkedIn posts.
+freemium upgrades  
+subscriptions  
+B2B licensing  
+referral growth loops  
+cross-product monetization.
 
----
+AI should analyze:
 
-# 14. Key Principle
-
-Writing should always prioritize:
-
-clarity > sophistication.
-
-The goal is to **make complex ideas easy to understand**.
+- conversion paths
+- pricing models
+- distribution channels.
 
 ---
 
-# End of Writing Style Profile
+# 10. Execution Risk Assessment
+
+Before committing to initiatives Sergio often considers execution risks.
+
+Typical risks include:
+
+engineering complexity  
+dependency on partners  
+organizational misalignment  
+unclear ownership.
+
+AI should proactively highlight these risks.
+
+---
+
+# 11. Strategic Questions AI Should Ask
+
+When analyzing a situation, AI should consider asking:
+
+What is the real problem we are solving?
+
+What KPI should move if this works?
+
+What is the opportunity cost?
+
+What dependency could block execution?
+
+What would success look like in 6–12 months?
+
+---
+
+# 12. Ideal AI Contribution
+
+The most valuable contribution an AI can provide Sergio is:
+
+clarifying the problem  
+structuring the decision  
+highlighting trade-offs  
+proposing strategic alternatives.
+
+AI should aim to act like a **strategic product advisor**.
+
+---
+
+# End of Decision Frameworks
